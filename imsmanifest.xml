@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">EG.G4.ESCI.SEM2.UB.T1.S2.6</langstring>
+          <langstring xml:lang="x-none">EG.G4.ESCI.SEM2.UB.T1.S2.6 (1)</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="EG.G4.ESCI.SEM2.UB.T1.S2.6_ORG">
-    <organization identifier="EG.G4.ESCI.SEM2.UB.T1.S2.6_ORG">
-      <title>EG.G4.ESCI.SEM2.UB.T1.S2.6</title>
+  <organizations default="EG.G4.ESCI.SEM2.UB.T1.S2.6_(1)_ORG">
+    <organization identifier="EG.G4.ESCI.SEM2.UB.T1.S2.6_(1)_ORG">
+      <title>EG.G4.ESCI.SEM2.UB.T1.S2.6 (1)</title>
       <item identifier="EG.G4.ESCI.SEM2.UB.T1.S2.6_SCO" isvisible="true" identifierref="__6R1QvQUXbBo_RES">
-        <title>EG.G4.ESCI.SEM2.UB.T1.S2.6</title>
+        <title>EG.G4.ESCI.SEM2.UB.T1.S2.6 (1)</title>
       </item>
     </organization>
   </organizations>
@@ -62,19 +62,17 @@
     <resource identifier="__6R1QvQUXbBo_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/67gzMdPZ598.png" />
-      <file href="mobile/5afxu6WhmNr_P_62_43_539_340.png" />
+      <file href="mobile/6e07Mtjd21h_P_44_48_554_348.png" />
       <file href="mobile/6gwfW6Qd9w5_P_1461_86_128_113.png" />
       <file href="story_content/6qRxpsWGTDI_44100_160_0.mp3" />
       <file href="mobile/5acePXrvBuf.gif" />
       <file href="story_content/5tAdBpaPZcW_44100_160_0.mp3" />
       <file href="mobile/6a2guQlCWq1.gif" />
-      <file href="mobile/5j2gPFdoYna.png" />
       <file href="meta.xml" />
       <file href="story_content/5vio8pvJyTo.png" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5WAFA8agkWX.js" />
-      <file href="html5/data/js/67uhvGAY5b5.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
